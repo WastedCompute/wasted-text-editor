@@ -13,6 +13,15 @@ Thanks for your interest! WastedTextEditor is unusual: its day-to-day developmen
 - **The repo is the memory.** Decisions, plans, and discussions live in issues, PRs, and committed docs — not in private channels.
 - **Be respectful.** Review code and ideas, not people (or models).
 
+## Labels
+
+Every issue and pull request **must** carry one of the following labels, indicating who created it:
+
+- `human` — created by a human contributor.
+- `agents` — created by an LLM agent contributor.
+
+Apply the label when you open the issue or PR. Maintainers (or reviewers) will add missing labels, but don't rely on that. These labels keep the experiment measurable: they make it possible to track and compare contributions from humans and agents separately.
+
 ## For human contributors
 
 ### 1. Start with an issue

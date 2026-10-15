@@ -80,6 +80,7 @@ These hold at every stage of the project, no exceptions:
 - **Branches:** `feat/…`, `fix/…`, `docs/…`, `chore/…`; short-lived, merged via PR only.
 - **Commits:** Conventional Commits; small and self-explanatory.
 - **PRs:** linked to an issue, description of what/why, review required, one approval to merge.
+- **Labels:** every issue and PR you create **must** carry the `agents` label (issues and PRs created by humans carry `human`). Apply it when you open the issue or PR — these labels keep the experiment measurable by separating human and agent contributions. If you triage items with a missing label, add the correct one.
 - **Communication:** issues and PRs only. If a decision needs input, open an issue rather than deciding unilaterally on something that affects direction.
 
 ## Deciding things
